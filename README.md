@@ -8,4 +8,6 @@
 *Matplotlib and Seaborn for data visualization,
 *Sklearn for model building,
 *Jupyter notebook.
+
 ![image](https://user-images.githubusercontent.com/94734991/169634950-411c4ac1-d677-4f2f-8a9c-6386ea48eb6f.png)
+![image](https://user-images.githubusercontent.com/94734991/169634972-d8d681ba-5551-47d0-943b-01340dabadee.png)
